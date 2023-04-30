@@ -1,0 +1,1 @@
+{"name": "alex1", "password": "123", "locked": false, "account": 9949.95, "credit": 15000, "shopping_cart": {"coffe": {"price": 30, "count": 1}, "chicken": {"price": 20, "count": 1}}, "bankflow": ["alex1 transfer 5000 yuan to alex", "alex1 withdraw 1 yuan", "alex1 repay 1 yuan", "alex1 consum 50 yuan"]}
